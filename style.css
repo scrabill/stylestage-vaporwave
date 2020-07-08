@@ -141,7 +141,7 @@ svg {
   fill: black;
 }
 
-@media screen AND (max-width: 500px) {
+@media screen AND (max-width: 5`00px) {
   body {
     margin: 0 auto;
     padding: 0 2%;
